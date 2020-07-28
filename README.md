@@ -2,9 +2,13 @@
 
 ## Sobre o desafio
 
-Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no React Native!
+Nesse desafio, criei uma aplicação para treinar o que aprendi até agora no React Native!
 
-Agora você deve continuar desenvolvendo a aplicação que irá armazenar repositórios do seu portfólio, que você já desenvolveu o backend utilizando o [Node.js](https://github.com/RobertoCostaTupinamba/Desafio-Conceitos-do-Node.js), e no último desafio em [ReactJS](https://github.com/RobertoCostaTupinamba/gostack-conceitos-reactjs).
+## Desafios já feitos
+
+* [Desafio Conceitos do Node.js](https://github.com/RobertoCostaTupinamba/Desafio-Conceitos-do-Node.js)
+
+* [Desafio Conceitos Reactjs](https://github.com/RobertoCostaTupinamba/gostack-conceitos-reactjs)
 
 ## Instalação
 
